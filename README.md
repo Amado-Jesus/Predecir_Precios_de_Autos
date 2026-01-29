@@ -29,7 +29,7 @@ El proyecto está pensado como una solución práctica para demostrar la aplicac
 ---
 
 ## 🖥️ Aplicación Web con Streamlit
-La aplicación web fue desarrollada con **Streamlit** y cuenta con:
+La aplicación web fue desarrollada con **[Streamlit] https://predictcarpriceapp-3d6jxfsgnklqzlvcn8q8ih.streamlit.app/** y cuenta con:
 - Inputs interactivos para el ingreso de datos
 - Botón para generar la predicción
 - Conversión del resultado final a dólares
