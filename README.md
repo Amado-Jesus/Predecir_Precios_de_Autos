@@ -10,8 +10,8 @@ La aplicación se enfoca en la facilidad de uso y en la eficiencia, evitando el 
 | Variable           | Descripción             | Ejemplo                              |
 | ------------------ | ----------------------- | ------------------------------------ |
 | `fabricante`       | Marca del vehículo      | Toyota, Ford, BMW                    |
-| `tipo_motor`       | Configuración del motor | V4, V6, V8, Eléctrico                |
-| `tipo_combustible` | Combustible utilizado   | Gasolina, Diésel, Híbrido, Eléctrico |
+| `tipo_motor`       | Configuración del motor | 2.0,2.5,3.0,3.6,etc.                 |
+| `tipo_combustible` | Combustible utilizado   | Gasolina, Diésel, Híbrido |
 | `año`              | Año de fabricación      | 2015, 2020, 2023                     |
 | `kilometraje`      | Millas recorridas       | 25000, 80000                         |
 
