@@ -17,10 +17,7 @@ La aplicación se enfoca en la facilidad de uso y en la eficiencia, evitando el 
 
 ---
 
-## 🧠 Descripción del Proyecto
-Sistema de screening diabético basado en SVM que procesa 8 biomarcadores clínicos vía CSV para clasificar riesgo (Bajo/Alto) en segundos, sin reentrenamiento, con 95.7% de sensibilidad. Solución práctica de ML para atención primaria.
 
----
 
 ## 📊 Modelo de Machine Learning
 
